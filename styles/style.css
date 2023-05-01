@@ -1,0 +1,21 @@
+#damp3ft-container {
+    display: flex;
+    flex-direction: column;
+    width: 270px;
+    padding: 4px 8px;
+}
+#damp3ft-box {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#damp3ft-text-input {}
+
+#damp3ft_button {
+    border: none;
+    padding: 4px 8px;
+    background-color: lightblue;
+    border-radius: 4px;
+}
